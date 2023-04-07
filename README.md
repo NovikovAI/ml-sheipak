@@ -11,4 +11,4 @@ Feature selection and Grid search practice.
 Weather prediction based on different features.
 
 ### hw04
-Natural Language Processing
+Natural Language Processing of movie reviews.
